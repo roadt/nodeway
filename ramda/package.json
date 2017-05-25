@@ -1,0 +1,14 @@
+{
+  "name": "nodeway_ramda",
+  "version": "0.0.1",
+  "description": "practice/playground - A practical functional library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Tang <roadtang@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ramda": "^0.23.0"
+  }
+}
