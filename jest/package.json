@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jest": "^22.0.4"
+  },
+	"scripts": {
+		"test": "jest --notify"
+	}
+}
