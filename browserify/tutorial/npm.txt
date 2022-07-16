@@ -1,0 +1,7 @@
+
+browserify    //create bundle.js from node modules for browser usage
+watchify       // watch & rebuild
+
+beefy          // local development server for fast & fun browserify development
+run-browser //
+testling-ci
