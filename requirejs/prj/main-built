@@ -1,0 +1,1 @@
+define("shirt",{color:"black",size:"unsize"}),require(["shirt"],function(e){}),define("main",function(){});
