@@ -1,0 +1,1 @@
+({appDir:".",baseUrl:"scripts",dir:"./dist",modules:[{name:"main"}],mainConfigFile:"scripts/main.js"});
